@@ -339,3 +339,14 @@ Brian Blaylock
 <!-- readme-visual-refresh:artwork-source -->
 [Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
 <!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:additional-result -->
+## Project output preview
+
+![上游 start-your-engines.ipynb 保存的历史输出：2024-01-01 的全球 2 米气温场。本次仅提取原 Notebook 图片，未下载或重跑预报；原图保留 xarray 自动省略的元数据标题。](assets/readme/additional-result.png)
+
+上游 start-your-engines.ipynb 保存的历史输出：2024-01-01 的全球 2 米气温场。本次仅提取原 Notebook 图片，未下载或重跑预报；原图保留 xarray 自动省略的元数据标题。
+
+Herbie upstream user-guide notebook; preserve repository license and notices.
+<!-- /readme-visual-refresh:additional-result -->
