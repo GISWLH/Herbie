@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![Herbie — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 <div align="center">
 
 ![Herbie Logo](https://github.com/blaylockbk/Herbie/blob/main/images/logo_new/Herbie-logo.png?raw=True)
@@ -331,3 +335,7 @@ Brian Blaylock
 
 | [Visualize Structure](https://mango-dune-07a8b7110.1.azurestaticapps.net/?repo=blaylockbk%2FHerbie) | [Star History](https://star-history.com/#blaylockbk/Herbie&Date) | [PyPI Statistics](https://pypistats.org/packages/herbie-data) |
 |---|---|---|
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
